@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-my first repo
+Want to dive in the world of awesome technologies.
